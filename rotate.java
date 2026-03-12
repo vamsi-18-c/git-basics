@@ -4,7 +4,7 @@ class rotate {
 
     public static void main(String[] mohan){
         Scanner sc=new  Scanner(System.in); // read input 
-        int d=sc.nextInt(),n=sc.nextInt();
+        int d=sc.nextInt(),n=sc.nextInt();  //read   userr input 
         
         int[] array = new int[n];
 
